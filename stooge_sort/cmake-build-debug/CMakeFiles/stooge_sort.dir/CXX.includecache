@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/stooge sort/DataGenerator/dataGenerator.h
+string
+-
+vector
+-
+
+C:/Users/Admin/Desktop/stooge sort/StoogeSorts/stoogeSorts.h
+list
+-
+
+C:/Users/Admin/Desktop/stooge sort/main.cpp
+iostream
+-
+list
+-
+ctime
+-
+fstream
+-
+cstdio
+-
+StoogeSorts/stoogeSorts.h
+C:/Users/Admin/Desktop/stooge sort/StoogeSorts/stoogeSorts.h
+DataGenerator/dataGenerator.h
+C:/Users/Admin/Desktop/stooge sort/DataGenerator/dataGenerator.h
+
